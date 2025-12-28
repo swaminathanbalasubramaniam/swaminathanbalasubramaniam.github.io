@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Financial economist"
+  location         : "France"
+  employer         : "NEOMA Business School"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s.balasubramaniam@neoma-bs.fr" 
 
   # Academic websites
   academia         : # URL
