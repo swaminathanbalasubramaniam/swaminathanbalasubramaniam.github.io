@@ -1,3 +1,0 @@
-I’m a financial economist with research interests broadly focused on financial markets and financial institutions. I study challenges faced by financial systems in aggregating information, providing liquidity and preventing coordination failures.
-
-I teach Fintech and Decentralized Finance in the Autumn semester and  Blockchain and Fintech in the Spring semester
