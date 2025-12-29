@@ -1,0 +1,49 @@
+{
+  "papers": [
+    {
+      "title": "Mergers and Acquisitions with Private Equity Intermediation",
+      "authors": ["Armando R. Gomes", "SangMok Lee"],
+      "status": "Published in Journal of Corporate Finance, August 2024",
+      "links": {
+        "published": "https://www.sciencedirect.com/science/article/pii/S0929119924000737",
+        "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302977"
+      }
+    },
+    {
+      "title": "The Conversational Structure of Investor Disagreement: Evidence from Reddit Threads",
+      "authors": ["Jorge Sabat"],
+      "status": "Invited Submission at RCFS",
+      "links": {
+        "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5984474"
+      }
+    },
+    {
+      "title": "Information Sharing: When Traders Disagree",
+      "authors": [],
+      "links": {
+        "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3751688"
+      }
+    },
+    {
+      "title": "Higher-Order Information Design: A Partition-Based Approach",
+      "authors": [],
+      "links": {
+        "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5982134"
+      }
+    },
+    {
+      "title": "Hoarding, Stockouts, and Commodity Futures Prices During the Pandemic",
+      "authors": ["Alexander David"],
+      "links": {
+        "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5027946"
+      }
+    },
+    {
+      "title": "Liquidity Portfolios",
+      "authors": ["Philip H. Dybvig", "Michael Tehranchi"],
+      "links": {
+        "pdf": "https://www.dropbox.com/scl/fi/6xlppcjvodmcctrcipeuo/Liquidity_portfolios.pdf?rlkey=6oc1fx33qx572rerf81s2loqi&st=l19zs45k&dl=0"
+      }
+    }
+  ]
+}
