@@ -12,7 +12,7 @@
     {
       "title": "The Conversational Structure of Investor Disagreement: Evidence from Reddit Threads",
       "authors": ["Jorge Sabat"],
-      "status": "Invited Submission at RCFS",
+      "status": "Invited Submission at The Review of Corporate Finance Studies",
       "links": {
         "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5984474"
       }
@@ -20,6 +20,7 @@
     {
       "title": "Information Sharing: When Traders Disagree",
       "authors": [],
+      "status": "Under Review",
       "links": {
         "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3751688"
       }
@@ -27,6 +28,7 @@
     {
       "title": "Higher-Order Information Design: A Partition-Based Approach",
       "authors": [],
+      "status": "Under Review",
       "links": {
         "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5982134"
       }
@@ -43,6 +45,22 @@
       "authors": ["Philip H. Dybvig", "Michael Tehranchi"],
       "links": {
         "pdf": "https://www.dropbox.com/scl/fi/6xlppcjvodmcctrcipeuo/Liquidity_portfolios.pdf?rlkey=6oc1fx33qx572rerf81s2loqi&st=l19zs45k&dl=0"
+      }
+    },
+    {
+      "title": "When LLMs Agree Too Much",
+      "authors": ["Jorge Sabat"],
+      "status": "new",
+      "links": {
+        "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6075786"
+      }
+    },
+    {
+      "title": "Limits to Arbitrage in Decentralized Finance",
+      "authors": [],
+      "status": "new",
+      "links": {
+        "ssrn": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6079846"
       }
     }
   ]
